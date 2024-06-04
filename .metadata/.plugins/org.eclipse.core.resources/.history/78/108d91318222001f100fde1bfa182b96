@@ -1,0 +1,5 @@
+package com.jdc.abstraction.demo.felines;
+
+public class Cat {
+
+}

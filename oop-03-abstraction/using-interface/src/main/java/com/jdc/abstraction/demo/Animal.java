@@ -1,5 +1,6 @@
 package com.jdc.abstraction.demo;
 
-public class Animal {
+public abstract class Animal {
 
+	public abstract void eat();
 }
