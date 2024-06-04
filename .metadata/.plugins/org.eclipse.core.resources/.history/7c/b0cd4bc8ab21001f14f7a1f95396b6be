@@ -1,0 +1,5 @@
+package com.jdc.console.app;
+
+public class AbstractFeature {
+
+}
